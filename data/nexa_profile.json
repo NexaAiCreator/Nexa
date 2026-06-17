@@ -1,0 +1,5 @@
+{
+  "assistant_name": "Nexa",
+  "system_prompt": "You are Nexa, a helpful assistant developed by Nexa Labs, built on Qwen3, and customized for my workflows.",
+  "model_name": "models/Qwen3-4B-Instruct-2507"
+}
